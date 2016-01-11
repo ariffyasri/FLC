@@ -26,5 +26,7 @@ Fuzzy Logic Controller Web Based is an application to help you create a fuzzy ap
 
 10)Voila!
 
+##Language/Framework
 
+HTML, PHP, Javascript, [Bootstrap] (https://github.com/twbs/bootstrap), [Flot] (https://github.com/flot/flot) 
 
