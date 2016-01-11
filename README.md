@@ -1,8 +1,10 @@
-# Fuzzy Logic Controller Web Based (FLC)
+#Fuzzy Logic Controller Web Based (FLC)
+
+##Synopsis 
 
 Fuzzy Logic Controller Web Based is an application to help you create a fuzzy application. This application has the same function like MATLAB Fuzzy Logic Toolbox but not so complete like theirs!
 
-Step to use this application :
+##Tutorial 
 
 1)First just click button "Start Fuzziness!"
 
