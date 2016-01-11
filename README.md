@@ -32,3 +32,6 @@ You need to download/clone this repository then put it in your server. Just open
 
 HTML, PHP, Javascript, [Bootstrap] (https://github.com/twbs/bootstrap), [Flot] (https://github.com/flot/flot) 
 
+##Copyright and License
+
+Code and documentation copyright 2016 Muhammad Ariff Bin Yasri. Code released under the MIT license.
