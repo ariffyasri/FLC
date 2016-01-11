@@ -2,9 +2,11 @@
 
 ##Synopsis 
 
-Fuzzy Logic Controller Web Based is an application to help you create a fuzzy application. This application has the same function like MATLAB Fuzzy Logic Toolbox but not so complete like theirs!
+Fuzzy Logic Controller Web Based is an application to help you create a fuzzy application. This application has the same function like MATLAB Fuzzy Logic Toolbox but not so complete like theirs! 
 
 ##Tutorial 
+
+You need to download/clone this repository then put it in your server. Just open it with browser then you can start!
 
 1)First just click button "Start Fuzziness!"
 
